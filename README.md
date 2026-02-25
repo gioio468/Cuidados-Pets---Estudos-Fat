@@ -1,4 +1,5 @@
 Cuidados Pets 🐾
+
 Um site simples sobre cuidados com cachorros, com informações sobre raças, dicas de saúde e uma galeria interativa.
 
 🚀 Funcionalidades
